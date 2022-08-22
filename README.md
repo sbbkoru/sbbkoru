@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berkay Buyukkoru</h1>
 <h3 align="center">Backend Developer - PHP Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **my portfolio website**
+- 🔭 I’m currently working on **my portfolio website** and **React**
 
 - 💬 Ask me about **PHP, Laravel, MySQL, Javascript**
 
